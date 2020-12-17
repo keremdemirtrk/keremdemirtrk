@@ -13,3 +13,5 @@
 <a href="medium.com/@keremdemirtrk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keremdemirtrk&layout=compact" />
 </a>
+
+[![KD's github stats](https://github-readme-stats.vercel.app/api?username=keremdemirtrk)](https://github.com/keremdemirtrk/github-readme-stats)
