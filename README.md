@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm kerem, i still studying computer engineer at KTU. Its my last year. If you want know more information about me, you can look my social accounts or mail me.
+
+
+You can reach me on:
+[Mail](keremdemirtrk@gmail.com)
+[Linkedln](linkedin.com/in/keremdemirtrk)
+[Medium](medium.com/@keremdemirtrk)
+[Twitter](twitter.com/keremdemirtrk)
 
 **CV (Özgeçmişim):**
 
