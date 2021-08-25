@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm kerem, i still studying computer engineer at KTU. Its my last year. If you want know more information about me, you can look my social accounts or mail me.
+I'm kerem, I'm Cloud and Platform Engineer at Sufle. If you want know more information about me, you can look my social accounts or mail me.
 
 
 You can reach me on:
