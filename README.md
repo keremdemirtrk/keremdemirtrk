@@ -6,8 +6,8 @@ I'm kerem, I'm Cloud and Platform Engineer at Sufle. If you want know more infor
 You can reach me on:
 [Mail](keremdemirtrk@gmail.com)
 [Linkedln](https://www.linkedin.com/in/keremdemirtrk)
-[Medium](medium.com/@keremdemirtrk)
-[Twitter](twitter.com/keremdemirtrk)
+[Medium](https://keremdemirtrk.medium.com/)
+[Twitter](https://twitter.com/keremdemirtrk)
 
 **CV (Özgeçmişim):**
 
